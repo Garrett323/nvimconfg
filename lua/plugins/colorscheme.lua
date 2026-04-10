@@ -1,9 +1,16 @@
 return {
   {
     "ellisonleao/gruvbox.nvim",
-    priority = 1000,
     opts = {},
   },
+  { "rebelot/kanagawa.nvim", opts = {} },
+  { "EdenEast/nightfox.nvim", opts = {} },
+  { "sainnhe/everforest", opts = {} },
+  { "sainnhe/gruvbox-material", opts = {} },
+  { "marko-cerovac/material.nvim", opts = {
+    style = "deep ocean",
+  } },
+
   {
     "LazyVim/LazyVim",
     opts = {
