@@ -4,6 +4,14 @@ return {
     opts = {},
   },
   {
+    "AlexvZyl/nordic.nvim",
+    opts = {},
+  },
+  {
+    "oxfist/night-owl.nvim",
+    opts = {},
+  },
+  {
     "folke/tokyonight.nvim",
     opts = {},
   },
