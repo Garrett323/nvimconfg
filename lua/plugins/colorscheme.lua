@@ -3,6 +3,10 @@ return {
     "ellisonleao/gruvbox.nvim",
     opts = {},
   },
+  {
+    "folke/tokyonight.nvim",
+    opts = {},
+  },
   { "rebelot/kanagawa.nvim", opts = {} },
   { "EdenEast/nightfox.nvim", opts = {} },
   { "sainnhe/everforest", opts = {} },
