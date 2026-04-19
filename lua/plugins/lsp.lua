@@ -3,7 +3,7 @@ return {
   opts = {
     ensure_installed = {
       "rust_analyzer",
-      "pyright",
+      "basedpyright",
       "clangd",
     },
   },
