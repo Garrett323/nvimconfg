@@ -7,6 +7,8 @@ return {
       "python",
       "c",
       "cpp",
+      "markdown",
+      "markdown_inline",
     },
   },
 }
