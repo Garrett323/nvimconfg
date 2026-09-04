@@ -5,6 +5,7 @@ return {
       "rust_analyzer",
       "basedpyright",
       "clangd",
+      "ltex_plus",
     },
   },
 }
